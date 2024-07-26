@@ -2,8 +2,11 @@
 
 **Team Details**
 
+
 Team Name: Brainvoltzzzz
+
 Team Leader Name: Vedang Bhole
+
 Problem Statement: Tech Solutions Making Regenerative Agriculture Remunerative
 
 We saw one of the critical issues to be lack of understanding, awareness and misconception about regenerative farming and No data, tools or technology to forecast the prices for regenerative farming crops and to compensate for their loss. Hence we created one single application which  contains :
